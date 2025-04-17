@@ -1,18 +1,28 @@
 body{
     background-color: #ACAFA8;
     color: purple;
+    box-shadow: black;
 }
 h1{
     color: black;
+    font-family: "Montserrat", sans-serif;
+    font-size: xx-large;
 }
 div{
     background-color: #AEBBBE;
     padding: 8px;
     margin: 10px;
     border-radius: 5%;
+    box-shadow:10px 5px 5pxb black;
+    font-family: "Montserrat", sans-serif;
 }
 
 .img{
     border-radius: 60px;
     height: 400px;
+}
+
+.rodape{
+    background-color: bisque;
+    text-align: center;
 }
